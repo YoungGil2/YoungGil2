@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94.+%EC%9B%B9%EA%B0%9C%EB%B0%9C%EC%9E%90+%EA%B9%80%EC%98%81%EA%B8%B8%EC%9E%85%EB%8B%88%EB%8B%A4.)](https://git.io/typing-svg)
+
 <!--
 **YoungGil2/YoungGil2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
