@@ -16,3 +16,7 @@
 
 ## 🔭 Currently Working On
 - 📝 **개발 블로그** | 실무 개발 경험, 트러블슈팅, 개인 학습, 업무 방법론 공유
+
+## Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
