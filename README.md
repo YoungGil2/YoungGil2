@@ -19,4 +19,9 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Laravel Request Lifecycle &lpar;라라벨 요청 생명주기&rpar;](https://younggil2.github.io/backend/2026-01-18-laravel-lifecycle/)
+- [TypeScript 유틸리티 타입 정리](https://younggil2.github.io/javascript/2026-01-18-typescript-advanced/)
+- [이메일/SMS 인증 시스템 구축기](https://younggil2.github.io/work/2025-12-18-verificationService/)
+- [시간, 공간 복잡도&lpar;빅오 표기법, 정렬 알고리즘&rpar;](https://younggil2.github.io/it/2025-08-24-algorithm/)
+- [리액트 랜더링 프로세스&lpar;브라우저 렌더링 프로세스&rpar;](https://younggil2.github.io/javascript/2025-07-01-react-rendering/)
 <!-- BLOG-POST-LIST:END -->
