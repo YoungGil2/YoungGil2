@@ -17,7 +17,7 @@
 ## 🔭 Currently Working On
 - 📝 **개발 블로그** | 실무 개발 경험, 트러블슈팅, 개인 학습, 업무 방법론 공유
 
-## Blog posts
+## 📝 Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Laravel Request Lifecycle &lpar;라라벨 요청 생명주기&rpar;](https://younggil2.github.io/backend/2026-01-18-laravel-lifecycle/)
 - [TypeScript 유틸리티 타입 정리](https://younggil2.github.io/javascript/2026-01-18-typescript-advanced/)
