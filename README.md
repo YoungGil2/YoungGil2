@@ -20,8 +20,8 @@
 ## 📝 Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [프론트엔드 개발자 VSCode 익스텐션 정리](https://younggil2.github.io/it/2026-05-26-vscode-extensions/)
+- [중국어 학습을 시작하며&lpar;학원 등록!&rpar;](https://younggil2.github.io/chinese/2026-05-26-chaihong-start/)
 - [메모리 관리 방식에 따른 언어 분류: Managed vs Unmanaged Language](https://younggil2.github.io/it/2026-01-31-managed-unmanaged-languages/)
 - [GitHub 프로필 꾸미기: 나만의 개발자 포트폴리오 대문 만들기](https://younggil2.github.io/it/2026-01-26-github-profile-decoration/)
 - [Laravel Request Lifecycle &lpar;라라벨 요청 생명주기&rpar;](https://younggil2.github.io/backend/2026-01-18-laravel-lifecycle/)
-- [TypeScript 유틸리티 타입 정리](https://younggil2.github.io/javascript/2026-01-18-typescript-advanced/)
 <!-- BLOG-POST-LIST:END -->
