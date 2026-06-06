@@ -19,9 +19,9 @@
 
 ## 📝 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Jekyll 블로그에 Hydejack 테마 적용하기: 나만의 블로그 꾸미기](https://younggil2.github.io/it/2026-06-05-jekyll-hydejack-theme/)
 - [FSD 아키텍처 실무 적용기: Next.js 프로젝트에 도입한 이유와 달라진 것들](https://younggil2.github.io/it/2026-06-02-fsd-architecture/)
 - [GitHub Pages + Jekyll로 블로그 만들기: 나만의 개발 공간 직접 구축하기](https://younggil2.github.io/it/2026-06-01-jekyll-github-pages/)
 - [감정 평가사 - AI로 내 문장의 온도를 측정하는 사이드 프로젝트](https://younggil2.github.io/project/2026-05-28-gamjeong-appraiser/)
 - [프론트엔드 개발자 VSCode 익스텐션 정리](https://younggil2.github.io/it/2026-05-26-vscode-extensions/)
-- [중국어 학습을 시작하며&lpar;학원 등록!&rpar;](https://younggil2.github.io/chinese/2026-05-26-chaihong-start/)
 <!-- BLOG-POST-LIST:END -->
