@@ -19,7 +19,7 @@
 
 ## 📝 Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [SQLD 합격 후기: 준비 기간부터 시험장 후기까지](https://younggil2.github.io/it/2026-09-07-sqld/)
+- [SQLD 합격 후기: 노랭이책 + 강의로 2주 만에 준비하기](https://younggil2.github.io/it/2026-09-07-sqld/)
 - [Next.js fetch — 기본 fetch가 어떻게 확장되었나](https://younggil2.github.io/javascript/2026-07-07-nextjs-fetch/)
 - [Jekyll 블로그에 Hydejack 테마 적용하기: 나만의 블로그 꾸미기](https://younggil2.github.io/it/2026-06-05-jekyll-hydejack-theme/)
 - [FSD 아키텍처 실무 적용기: Next.js 프로젝트에 도입한 이유와 달라진 것들](https://younggil2.github.io/it/2026-06-02-fsd-architecture/)
